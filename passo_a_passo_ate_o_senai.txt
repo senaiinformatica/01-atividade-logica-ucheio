@@ -1,0 +1,79 @@
+Acordo 
+Abro os olhos
+Levanto da cama
+Vou até a sacada
+Abro a porta da sacada
+Pego minha toalha no varal
+Fecho a porta da sacada
+Vou até o banheiro
+Abro a porta do banheiro
+Entro no banheiro
+Fecho a porta do banheiro 
+Deixo a toalha apoiada no suporte
+Abro a porta do armário
+Pego o sabonete
+Pego o shampoo
+Pego o condicionador
+Fecho o armário
+Abro a porta do box
+Entro no box
+Fecho a porta do box
+Ligo o chuveiro
+Fico de baixo do chuveiro
+Desligo o chuveiro
+Passo o sabonete
+Passo o Shampoo
+Ligo o chuveiro
+Fico de baixo do chuveiro
+Passo condicionador
+Volto para de baixo do chuveiro
+Abro a porta do box
+Pego a toalha
+Fecho a porta do box
+Me seco
+Abro a porta do box 
+Saio do box
+Fecho a porta do box
+Abro a porta do banheiro
+Saio do banheiro
+Fecho a porta
+Visto minha cueca
+Passo o desodorante 
+Passo o perfume
+Visto minha camiseta
+Visto minha calça
+Visto minha meia
+Visto meu tênis
+Pego o saco de whey
+Coloco whey no pote
+Pego a coqueteleira
+Abro a geladeira
+Pego o leite
+Abro o leite
+Abro a coqueteleira
+coloco o leite
+Fecho a caixa de leite
+Fecho a coqueteleira
+Abro a geladeira
+Pego a marmita
+Coloco a caixa de leite
+Fecho a geladeira
+Arrumo a minha bolsa
+Abro a porta de casa
+Fecho a porta
+Vou ate o elevador 
+Aperto o botão 
+Entro no elevador
+Vou ate a entrada 
+Abro o portão
+Fecho o portão
+Vou até a estação
+Passo o bilhete único na catraca
+Desço as escadas 
+Entro no trem 
+Saio do trem
+Faço a baldeação
+Entro no trem 
+Saio do trem 
+Venho até o senai
+Chego no senai
